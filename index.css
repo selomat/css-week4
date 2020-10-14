@@ -95,7 +95,8 @@ header{
 #profil-image{
     width :6vw;
     position: relative;
-    bottom: 6vh;
+    bottom: 7.9vh;
+    margin-bottom: -45px;
 }
 
 #socialmedia i{
